@@ -1,4 +1,4 @@
 # harlong-codeworks
 This is my first Git Repository
 <br>
-Author- Harlongbi Phangcho
+Author- Harlongbi (Apna College)
